@@ -1,0 +1,101 @@
+Brand,Mileage,Engine_Type,Age,Price
+Maruti Suzuki,12000,Petrol,1,495000
+Maruti Suzuki,24000,Petrol,2,445000
+Maruti Suzuki,35000,CNG,3,385000
+Maruti Suzuki,48000,Petrol,4,340000
+Maruti Suzuki,55000,Diesel,5,335000
+Maruti Suzuki,68000,Petrol,6,265000
+Maruti Suzuki,72000,CNG,7,230000
+Maruti Suzuki,85000,Diesel,8,220000
+Maruti Suzuki,95000,Petrol,9,180000
+Maruti Suzuki,110000,Petrol,11,140000
+Hyundai,10500,Petrol,1,680000
+Hyundai,22000,Diesel,2,675000
+Hyundai,31000,Petrol,3,540000
+Hyundai,42000,CNG,4,460000
+Hyundai,50000,Diesel,5,470000
+Hyundai,63000,Petrol,6,375000
+Hyundai,76000,Diesel,7,355000
+Hyundai,88000,Petrol,8,285000
+Hyundai,98000,CNG,9,240000
+Hyundai,115000,Petrol,12,175000
+Tata,9000,Electric,1,940000
+Tata,18000,Petrol,2,640000
+Tata,29000,Diesel,3,635000
+Tata,38000,Electric,3,740000
+Tata,45000,Petrol,4,495000
+Tata,58000,CNG,5,425000
+Tata,67000,Diesel,6,430000
+Tata,79000,Petrol,7,340000
+Tata,92000,Diesel,9,295000
+Tata,108000,Petrol,10,225000
+Honda,11000,Hybrid,1,1080000
+Honda,19500,Petrol,2,760000
+Honda,32000,Diesel,3,755000
+Honda,41000,Petrol,4,595000
+Honda,53000,Hybrid,5,670000
+Honda,64000,Petrol,6,470000
+Honda,74000,Diesel,7,445000
+Honda,86000,Petrol,8,365000
+Honda,99000,Petrol,10,280000
+Honda,120000,Diesel,12,240000
+Mahindra,13000,Diesel,1,1290000
+Mahindra,25000,Diesel,2,1150000
+Mahindra,34000,Petrol,3,910000
+Mahindra,46000,Diesel,4,920000
+Mahindra,59000,Diesel,5,810000
+Mahindra,69000,Petrol,6,635000
+Mahindra,82000,Diesel,7,620000
+Mahindra,94000,Diesel,8,540000
+Mahindra,105000,Petrol,10,395000
+Mahindra,125000,Diesel,12,330000
+Toyota,14000,Hybrid,1,1780000
+Toyota,23000,Diesel,2,1450000
+Toyota,36000,Petrol,3,1140000
+Toyota,44000,Hybrid,4,1260000
+Toyota,56000,Diesel,5,1020000
+Toyota,70000,Petrol,6,795000
+Toyota,81000,Diesel,7,780000
+Toyota,93000,Hybrid,8,770000
+Toyota,112000,Diesel,10,560000
+Toyota,135000,Diesel,13,410000
+Volkswagen,11500,Petrol,1,985000
+Volkswagen,21000,Petrol,2,880000
+Volkswagen,33000,Diesel,3,865000
+Volkswagen,47000,Petrol,4,685000
+Volkswagen,60000,Diesel,5,660000
+Volkswagen,71000,Petrol,6,535000
+Volkswagen,84000,Diesel,8,440000
+Volkswagen,96000,Petrol,9,360000
+Volkswagen,109000,Diesel,11,290000
+Volkswagen,122000,Petrol,12,235000
+Ford,15000,Petrol,2,720000
+Ford,28000,Diesel,3,715000
+Ford,39000,Petrol,4,565000
+Ford,52000,Diesel,5,550000
+Ford,65000,Petrol,6,440000
+Ford,77000,Diesel,7,420000
+Ford,89000,Petrol,8,340000
+Ford,101000,Diesel,9,320000
+Ford,114000,Petrol,11,235000
+Ford,128000,Diesel,13,195000
+BMW,9500,Petrol,1,3780000
+BMW,18500,Diesel,2,3740000
+BMW,27000,Hybrid,3,3710000
+BMW,39000,Diesel,4,2950000
+BMW,49000,Petrol,5,2340000
+BMW,61000,Diesel,6,2290000
+BMW,73000,Petrol,7,1810000
+BMW,85000,Diesel,8,1760000
+BMW,97000,Petrol,10,1240000
+BMW,115000,Diesel,12,1020000
+Mercedes-Benz,8000,Electric,1,5580000
+Mercedes-Benz,17000,Diesel,2,4290000
+Mercedes-Benz,26000,Petrol,3,3410000
+Mercedes-Benz,37000,Hybrid,4,3780000
+Mercedes-Benz,48000,Diesel,5,2990000
+Mercedes-Benz,59000,Petrol,6,2380000
+Mercedes-Benz,70000,Diesel,7,2320000
+Mercedes-Benz,83000,Petrol,8,1840000
+Mercedes-Benz,95000,Diesel,10,1480000
+Mercedes-Benz,110000,Petrol,12,1120000
